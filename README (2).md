@@ -90,9 +90,14 @@ java -cp out erp.Main
 - **Persistence** – Data survives across runs via Java Object Serialization
 - **Demo Data** – 5 students, 4 courses, 3 faculty pre-loaded on first run
 - Contributors
+- 
 - •	23BCE11349 – PARITOSH KATIYAR
+- 
 •	23BCE11756 – KARTIKEY VERMA
+
 •	24BCE11369 – AAYUSH SHEKHAWAT
+
 •	24BCE10699 – ATHARVA KATARE
+
 •	23BCE11768 – NIKHIL PILLAI
 
